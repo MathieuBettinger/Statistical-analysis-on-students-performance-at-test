@@ -37,3 +37,4 @@ if nb_de_chances > 0:
 
 if nb_de_chances > 0:
     print("Bravo ! Tu as gagné le quiz !")
+    print("this is a test")
